@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ex\ez\bin\Debug\net6.0\ez.exe
+C:\Users\user\Desktop\ex\ez\bin\Debug\net6.0\ez.deps.json
+C:\Users\user\Desktop\ex\ez\bin\Debug\net6.0\ez.runtimeconfig.json
+C:\Users\user\Desktop\ex\ez\bin\Debug\net6.0\ez.dll
+C:\Users\user\Desktop\ex\ez\bin\Debug\net6.0\ez.pdb
+C:\Users\user\Desktop\ex\ez\obj\Debug\net6.0\ez.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ex\ez\obj\Debug\net6.0\ez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ex\ez\obj\Debug\net6.0\ez.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ex\ez\obj\Debug\net6.0\ez.AssemblyInfo.cs
+C:\Users\user\Desktop\ex\ez\obj\Debug\net6.0\ez.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ex\ez\obj\Debug\net6.0\ez.dll
+C:\Users\user\Desktop\ex\ez\obj\Debug\net6.0\refint\ez.dll
+C:\Users\user\Desktop\ex\ez\obj\Debug\net6.0\ez.pdb
+C:\Users\user\Desktop\ex\ez\obj\Debug\net6.0\ez.genruntimeconfig.cache
+C:\Users\user\Desktop\ex\ez\obj\Debug\net6.0\ref\ez.dll
